@@ -1,0 +1,9 @@
+pandas==3.0.0
+numpy
+matplotlib
+contextily
+geopandas
+shapely
+plotly
+scikit-learn
+seaborn
